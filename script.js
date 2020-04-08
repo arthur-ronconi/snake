@@ -123,7 +123,6 @@ function snakey() {
   function drawFood() {
     foodPosition()
     draw(food.color, food.x, food.y, food.width, food.height)
-    // console.log('food position: ' + food.x + ' ' + food.y)
   }
 
   function drawSnake() {
