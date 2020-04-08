@@ -1,0 +1,26 @@
+body {
+  background-color: #2c2c2c;
+}
+button {
+  display: block;
+  margin: 1rem auto;
+  padding: 1rem 2.5rem;
+  border-radius: 999px;
+  border: none;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  color: white;
+  background-color: rgb(68, 177, 91);
+  transition: all 0.2s ease-in-out;
+}
+button:hover {
+  transform: scale(1.1);
+  background-color: rgb(35, 136, 57);
+}
+
+canvas {
+  border: 1rem solid #929292;
+  border-radius: 1rem;
+  background-color: #515151;
+}
