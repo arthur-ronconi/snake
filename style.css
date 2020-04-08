@@ -10,13 +10,13 @@ button {
   font-family: monospace;
   font-weight: bolder;
   font-size: 1.5rem;
-  color: white;
-  background-color: rgb(68, 177, 91);
+  color: #ffffff;
+  background-color: #44b15b;
   transition: all 0.2s ease-in-out;
 }
 button:hover {
   transform: scale(1.1);
-  background-color: rgb(35, 136, 57);
+  background-color: #238839;
 }
 
 canvas {
