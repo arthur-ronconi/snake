@@ -190,5 +190,4 @@ function snakey() {
   }
 
   game()
-  //
 }
